@@ -525,7 +525,7 @@ aside{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 30px;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 .w_right{
     margin-top: 50px;
